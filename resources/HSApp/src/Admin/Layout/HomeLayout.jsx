@@ -129,11 +129,11 @@ const HomeLayout = ({ children, ...rest }) => {
                             <span className="icon la la-laptop"></span>
                             <span className="title">Página Principal</span>
                         </a>
-                        <a href="#/agenda-legislativa" className="link" data-target="[data-menu=pages]" data-toggle="tooltip-menu"
+                        {/* <a href="#/agenda-legislativa" className="link" data-target="[data-menu=pages]" data-toggle="tooltip-menu"
                             data-tippy-content="Agenda">
                             <span className="icon la la-calendar"></span>
                             <span className="title">Agenda Legislativa</span>
-                        </a>
+                        </a> */}
                         <a href="#/congresistas" className="link"
                             data-tippy-content="Diputados">
                             <span className="icon la la-users"></span>
@@ -160,7 +160,7 @@ const HomeLayout = ({ children, ...rest }) => {
                         </a>
                         <a href="#no-link" className="link btnVerIconos" data-toggle="menu-type" data-value="icon-only">
                             <span className="icon la la-arrow-circle-left"></span>
-                        </a>
+                        </a>Costa Rica
                     </div>
                 </aside>
             {children}

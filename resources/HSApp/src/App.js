@@ -52,7 +52,7 @@ export default class App extends Component {
                         {/* End home */}
 
                         {/* Actividades legislativas */}
-                        <RouteLayout path="/agenda-legislativa" component={AgendaLegislativa} />
+                        {/* <RouteLayout path="/agenda-legislativa" component={AgendaLegislativa} /> */}
                         {/* End actividades legislativas */}
 
                         {/* Actividades legislativas */}

@@ -219,7 +219,7 @@ class Login extends React.Component {
                                 style={{ marginTop: "75px" }}
                             >
                                 {" "}
-                                &copy; 2021 Honduras
+                                &copy; 2021 Costa Rica
                             </p>
                         </form>
                     </div>

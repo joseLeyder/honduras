@@ -104,12 +104,12 @@ const HomeLayout = ({ children, ...rest }) => {
                                 <div className="profile-image">
                                     <img
                                         src="/img/uccaep-v.png"
-                                        alt="Honduras"
+                                        alt="CostaRica"
                                     />
                                 </div>
                                 <div className="profile-data">
                                     <div className="profile-data-name">
-                                        Honduras
+                                        Costa Rica
                                     </div>
                                     <div className="profile-data-title">
                                         Administrador
